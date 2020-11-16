@@ -1,0 +1,13 @@
+{
+  "appId": "com.luca.noassignado",
+  "appName": "369 No Assignado",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

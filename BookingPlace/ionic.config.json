@@ -1,0 +1,7 @@
+{
+  "name": "PrenotazionePosti",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
